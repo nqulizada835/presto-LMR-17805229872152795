@@ -1,0 +1,454 @@
+{
+  "groups": [
+    {
+      "groupId": 0,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_001_iso2k",
+          "dataSetName": "CO00COKY",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_001",
+          "dataSetName": "Ocn-Malindi.Cole.2000",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_012",
+          "dataSetName": "Ocn-Malindi.Nakamura.2009",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_012_iso2k",
+          "dataSetName": "CO09NAKY",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 1,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_177_iso2k",
+          "dataSetName": "CO00URMA",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_177",
+          "dataSetName": "Ocn-Maiana.Urban.2000",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 2,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_140_iso2k",
+          "dataSetName": "CO01TUNG",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_140",
+          "dataSetName": "Ocn-MadangLagoonPapuaNewGuinea.Kuhnert.2001",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_172",
+          "dataSetName": "Ocn-MadangLagoonPapuaNewGuinea.Tudhope.1995",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_141_iso2k",
+          "dataSetName": "CO01TUNG",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_172_iso2k",
+          "dataSetName": "CO95TUNG",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 3,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_006_iso2k",
+          "dataSetName": "CO03CHBA",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_006",
+          "dataSetName": "Ocn-Lombok.Charles.2003",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 4,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_171_iso2k",
+          "dataSetName": "CO03CHBU",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_171",
+          "dataSetName": "Ocn-BunakenIsland.Charles.2003",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 5,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_139_iso2k",
+          "dataSetName": "CO03COPM",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_139",
+          "dataSetName": "Ocn-Palmyra.Cobb.2013",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_160",
+          "dataSetName": "Ocn-Palmyra.Nurhati.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM02A",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM03A",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM04C",
+          "dataSetName": "CO03COPM",
+          "decision": "remove"
+        },
+        {
+          "tsid": "CO03COPM05C",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM06C",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM07C",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM11C",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM08B",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM09B",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM10B",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM01A",
+          "dataSetName": "CO03COPM",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_160_iso2k",
+          "dataSetName": "CO11NUPM",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 6,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_166_iso2k",
+          "dataSetName": "CO05ASGU",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_166",
+          "dataSetName": "Ocn-DoubleReef.Asami.2005",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 7,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_007_iso2k",
+          "dataSetName": "CO06DATZ",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_007",
+          "dataSetName": "Ocn-Mafia.Damassa.2006",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 8,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_108_iso2k",
+          "dataSetName": "CO06MOTO",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_108",
+          "dataSetName": "Ocn-BuccooReefTobagoMontastrea.Moses.2006",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_110",
+          "dataSetName": "Ocn-BuccooReefTobagoSidereastrea.Moses.2006",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_110_iso2k",
+          "dataSetName": "CO06MOTO",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 9,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_144_iso2k",
+          "dataSetName": "CO06QUNG",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_144",
+          "dataSetName": "Ocn-Rabaul.Quinn.2006",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 10,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_010_iso2k",
+          "dataSetName": "CO08ABSU",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_010",
+          "dataSetName": "Ocn-MentawaiIslands.Abram.2008",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 11,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_096_iso2k",
+          "dataSetName": "CO08HEVE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_096",
+          "dataSetName": "Ocn-LosRoques.Hetzinger.2008",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 12,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_181_iso2k",
+          "dataSetName": "CO14OSPA",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_183",
+          "dataSetName": "Ocn-PalauUlongChannel.Osborne.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_183_iso2k",
+          "dataSetName": "CO14OSPA",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 13,
+      "records": [
+        {
+          "tsid": "CO14WUCL01A",
+          "dataSetName": "CO14WUCL",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_188",
+          "dataSetName": "Ocn-Clipperton1b.Wu.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_169",
+          "dataSetName": "Ocn-ClippertonAtoll.Linsley.2000",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO99LICL01A",
+          "dataSetName": "CO99LICL",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO99LICL02A",
+          "dataSetName": "CO99LICL",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO99LICL03A",
+          "dataSetName": "CO99LICL",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 14,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_173_iso2k",
+          "dataSetName": "CO94DUUR",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_173",
+          "dataSetName": "Ocn-UrvinaBay.Dunbar.1994",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 15,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_138_iso2k",
+          "dataSetName": "CO94LISE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_138",
+          "dataSetName": "Ocn-SecasIslandPanama.Linsley.1994",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 16,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_135_iso2k",
+          "dataSetName": "CO98EVXM",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_135",
+          "dataSetName": "Ocn-Kiritimati.Evans.1998",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 17,
+      "records": [
+        {
+          "tsid": "CO99GUMI01A",
+          "dataSetName": "CO99GUMI",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_179",
+          "dataSetName": "Ocn-Nauru.Guilderson.1999",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO99GUMI01B",
+          "dataSetName": "CO99GUMI",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 18,
+      "records": [
+        {
+          "tsid": "SAm_035_iso2k",
+          "dataSetName": "IC13THQU",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SAm_035",
+          "dataSetName": "SAm-QuelccayaIceCap.Thompson.2013",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 19,
+      "records": [
+        {
+          "tsid": "LPDe51d17e8",
+          "dataSetName": "Ocn-CariacoBasin.Black.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD708fb697",
+          "dataSetName": "Ocn-CariacoBasin.Black.2007",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    }
+  ]
+}
